@@ -58,6 +58,8 @@ StatusCake - 50 requests
 Go-http-client/1.1 - 30 requests
 Custom-AsyncHttpClient - 20 requests
 
+```
+
 ## Project Repository
 
 You can find more project details at:
